@@ -2,3 +2,6 @@ ObjectDetectionVersion1.zip filter=lfs diff=lfs merge=lfs -text
 ObjectDetectionVersion2.zip filter=lfs diff=lfs merge=lfs -text
 ObjectDetectionVersion3.zip filter=lfs diff=lfs merge=lfs -text
 ObjectDetectionVersion4.zip filter=lfs diff=lfs merge=lfs -text
+ObjectDetectionWithBarcode filter=lfs diff=lfs merge=lfs -text
+ObjectDetectionWithBarcodeDatabase.zip filter=lfs diff=lfs merge=lfs -text
+ObjectDetectionwithPreciseLocationWeatherForecast.zip filter=lfs diff=lfs merge=lfs -text
